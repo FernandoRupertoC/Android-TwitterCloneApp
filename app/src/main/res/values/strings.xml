@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TwitterDev</string>
+
+    <!--     Login Screen -->
+    <string name="login_screen_header_desc_icon">X logo</string>
+    <string name="login_screen_title_CustomText">Inicia sesión en X</string>
+    <string name="login_screen_SocialLoginButton_google">Iniciar sesión con Google</string>
+    <string name="login_screen_SocialLoginButton_apple">Iniciar sesión con Apple</string>
+    <string name="login_screen_ButtonPrimary">Siguiente</string>
+    <string name="login_screen_text_account">¿No tienes una cuenta?</string>
+    <string name="login_screen_text_button_register">Regístrate</string>
+
+    <!--     Register Screen -->
+
+</resources>
